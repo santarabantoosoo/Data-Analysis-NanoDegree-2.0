@@ -12,7 +12,7 @@ If you want the presentations, please head to this [repo](https://github.com/san
 
 The destinction between the repos is mainly because the presentation increase the size of the repo. This may limit the ease of cloning the repo. This may have negative effects as we may need to clone the repo each week, just before the session.
 
-## what did ADVANCED_DATA_ANALYSIS 1.0 had?   
+## what did ADVANCED_DATA_ANALYSIS 1.0 have?   
 
 Same practical statistics content, in addition to pandas and visualization in python(seaborn and matplotlib). These items were replaced by SQL, Tableau and Agile in 2.0 
 
