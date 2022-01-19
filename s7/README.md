@@ -1,3 +1,7 @@
+## official tableau resources  
+
+[Free Training Videos - 2021.4](https://www.tableau.com/learn/training/20214) 
+
 ## resources to be explored  
 
 Fundamentals of Visualization with Tableau - Grades | Coursera
