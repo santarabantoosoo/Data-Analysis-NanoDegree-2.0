@@ -23,6 +23,8 @@
 
 [Explaining p-values with puppies | Hacker Noon](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0)
 
+[StatQuest: One or Two Tailed P-Values - YouTube](https://www.youtube.com/watch?v=bsZGt-caXO4)
+
 ## Bootstrapping   
 
 [Bootstrapping Part 1: Main Ideas - YouTube](https://www.youtube.com/watch?v=Xz0x-8-cgaQ) 
@@ -36,7 +38,6 @@
 ## Others  
 
 [Spurious correlations](http://www.tylervigen.com/spurious-correlations)
-
 
 [humor - What is your favorite "data analysis" cartoon? - Cross Validated](https://stats.stackexchange.com/questions/423/what-is-your-favorite-data-analysis-cartoon/38295#38295)
 
