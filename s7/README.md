@@ -1,3 +1,5 @@
+[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four - YouTube](https://www.youtube.com/watch?v=jbkSRLYSojo)
+
 # Top resources  
 
 [Best reference ever - huge list of tableau curated resources](http://www.tableaureferenceguide.com/)  
