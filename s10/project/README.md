@@ -6,6 +6,8 @@
 
 [tdpetrou/Minimally-Sufficient-Pandas: There are always multiple ways to complete a task in Pandas. A minimal subset of the library is sufficient for almost everything.](https://github.com/tdpetrou/Minimally-Sufficient-Pandas) 
 
+[Understand map() function to manipulate pandas Series | by Yong Cui | Towards Data Science](https://towardsdatascience.com/understand-map-function-to-manipulate-pandas-series-8ac340d514f7)
+
 #### ML - scikit learn
 
 [Machine-Learning-with-Python/Logistic Regression](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Logistic%20Regression%20in%20Python%20-%20Step%20by%20Step.ipynb)
