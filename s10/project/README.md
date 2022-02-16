@@ -6,6 +6,19 @@
 
 [tdpetrou/Minimally-Sufficient-Pandas: There are always multiple ways to complete a task in Pandas. A minimal subset of the library is sufficient for almost everything.](https://github.com/tdpetrou/Minimally-Sufficient-Pandas) 
 
+#### ML - scikit learn
+
+[Machine-Learning-with-Python/Logistic Regression](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Logistic%20Regression%20in%20Python%20-%20Step%20by%20Step.ipynb)
+
+[palVikram/Machine-Learning-using-Python: Regression, Classification and Clustering](https://github.com/palVikram/Machine-Learning-using-Python)
+
+#### Statistics - Statsmodels
+
+[Linear regression with Python and StatsModels](https://github.com/RM-Santiago/framingham/blob/main/Linear%20regression%20with%20Python%20and%20StatsModels.ipynb) 
+
+[framingham/Logistic regression in Python using StatsModels.ipynb at main · RM-Santiago/framingham](https://github.com/RM-Santiago/framingham/blob/main/Logistic%20regression%20in%20Python%20using%20StatsModels.ipynb)
+
+
 ### SQL 
 
 [PowerPoint Presentation](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf) 
