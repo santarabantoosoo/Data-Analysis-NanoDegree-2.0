@@ -1,5 +1,4 @@
 
-
 # Useful links   
 
 ## Top general resources   
@@ -29,7 +28,22 @@
 
 [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/)
 
-### want to learn R  
+
+### postgres     
+
+[PostgreSQL: Downloads](https://www.postgresql.org/download/)
+
+[pgadmin4](https://www.pgadmin.org/download/pgadmin-4-windows/) 
+
+
+###  SQLight    
+
+[SQLite Download Page](https://www.sqlite.org/download.html) 
+
+[Downloads - DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+
+
+## want to learn R  
 
 [Getting Started with R – RStudio Support](https://support.rstudio.com/hc/en-us/articles/201141096-Getting-Started-with-R) 
 
