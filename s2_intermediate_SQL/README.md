@@ -1,5 +1,8 @@
 ## Top resources this week
 
+[SQL Formatter & Beautifier Online](https://codebeautify.org/sqlformatter)
+
+
 [Learning SQL, 3rd Edition](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/) 
 
   *Follow up with the book locally*    
@@ -14,6 +17,134 @@
     check chapter 2 of the book and follow up instructions 
 
 
+
+## Datacamp  
+
+[Joining Data in SQL - DataCamp Learn](https://app.datacamp.com/learn/courses/joining-data-in-sql) 
+
+[Intermediate SQL - DataCamp Learn](https://app.datacamp.com/learn/courses/intermediate-sql) 
+
+[Improving Query Performance in PostgreSQL - DataCamp Learn](https://app.datacamp.com/learn/courses/improving-query-performance-in-postgresql)
+
+
+## Miscellaneous articles  
+
+[Why the SQL WITH Clause Is Awesome | LearnSQL.com](https://learnsql.com/blog/with-clause-is-awesome-sql/)  
+
+[SQL Correlated Subqueries - Advanced SQL | bipp Analytics](https://bipp.io/sql-tutorial/advanced-sql/sql-correlated-subqueries/) 
+
+[PostgreSQL: Implicit vs. explicit joins - CYBERTEC](https://www.cybertec-postgresql.com/en/postgressql-implicit-vs-explicit-joins/) 
+
+[CTE : simplify those nested sub queries - Good Fast](https://blog.goodfast.info/post/cte-sub-queries-simplified/)
+
+
+## Youtube  
+
+[Analytic SQL - YouTube - Mcdonald's](https://www.youtube.com/playlist?list=PLJMaoEWvHwFIUwMrF4HLnRksF0H8DHGtt)
+
+[Why the WITH clause is awesome in SQL - YouTube](https://www.youtube.com/watch?v=Gm8N_yip0Ek) 
+
+
+## Books  
+
+[Practical SQL, 2nd edition](https://www.amazon.com/Practical-SQL-2nd-Beginners-Storytelling/dp/1718501064)
+
+[SQL in a nutshell, 4th edition](https://learning.oreilly.com/library/view/sql-in-a/9781492088851/)
+
+[SQL beyond the basics](https://learning.oreilly.com/videos/sql-beyond-the/9781771373449/)
+
+
+## Other SQL resources
+
+[Ten Common SQL Programming Mistakes - Simple Talk](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/ten-common-sql-programming-mistakes/)
+
+[SQL Tips and Tricks — The With Clause | by Abhishek Mukherjee | Medium](https://medium.com/@abhishekblogger/sql-tips-and-tricks-the-with-clause-1a78af758af7) 
+
+[What’s an SQL Inline Query? | LearnSQL.com](https://learnsql.com/blog/inline-query-in-sql/#:~:text=The%20first%20difference%20is%20that,work%20as%20a%20single%20value.) 
+
+[Correlated Subquery in SQL: A Beginner’s Guide | LearnSQL.com](https://learnsql.com/blog/correlated-sql-subqueries-newbies/)
+
+[PostgreSQL Window Functions: The Ultimate Guide](https://www.postgresqltutorial.com/postgresql-window-function/)
+
+
+## To check  
+
+Correlated Subqueries - an overview | ScienceDirect Topics
+https://www.sciencedirect.com/topics/computer-science/correlated-subqueries
+
+
+Watch "We Learn SQL #15 | SQL Subqueries in SELECT" on YouTube - mah.mo.hamza@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/KtbxLthqDpDJFBvmsBfKmWRpVNtFZgdpsV 
+
+SQL Correlated Subqueries - GeeksforGeeks
+https://www.geeksforgeeks.org/sql-correlated-subqueries/ 
+
+Query Optimization Technology for Correlated Subqueries - Alibaba Cloud Community
+https://www.alibabacloud.com/blog/query-optimization-technology-for-correlated-subqueries_597644
+
+
+Why the SQL WITH Clause Is Awesome | LearnSQL.com
+https://learnsql.com/blog/with-clause-is-awesome-sql/
+
+What Is a CTE? | LearnSQL.com
+https://learnsql.com/blog/what-is-cte/
+
+Window Functions - SQL online course | LearnSQL.com
+https://learnsql.com/course/window-functions
+
+Creating Basic SQL Reports - SQL online course | LearnSQL.com
+https://learnsql.com/course/sql-basic-reporting/
+
+Do it in SQL: Recursive SQL Tree Traversal | LearnSQL.com
+https://learnsql.com/blog/do-it-in-sql-recursive-tree-traversal/
+
+Get to Know the Power of SQL Recursive Queries | LearnSQL.com
+https://learnsql.com/blog/get-to-know-the-power-of-sql-recursive-queries/
+
+Subquery vs. CTE: A SQL Primer | LearnSQL.com
+https://learnsql.com/blog/sql-subquery-cte-difference/
+
+How to Organize SQL Queries with CTEs | LearnSQL.com
+https://learnsql.com/blog/organize-sql-recursive-queries-ctes/
+
+Recursive Queries - SQL online course | LearnSQL.com
+https://learnsql.com/course/common-table-expressions/
+
+
+How to Deal with SQL CTE: Everything you Need to Know
+https://codingsight.com/everything-you-need-to-know-about-sql-cte/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## supplementary references 
 
 
 [Lessons on How to Lie with Statistics | by Will Koehrsen | Towards Data Science](https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19)
