@@ -1,22 +1,6 @@
-## Top resources this week
+# Top resources this week
 
 [SQL Formatter & Beautifier Online](https://codebeautify.org/sqlformatter)
-
-
-[Learning SQL, 3rd Edition](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/) 
-
-  *Follow up with the book locally*    
-  -  [MySQL :: Download MySQL Community Server](https://dev.mysql.com/downloads/mysql/)   
- 
-  -  [Download Sakila database from here](https://dev.mysql.com/doc/index-other.html)   
-
-  *Follow up with the book online*  
-
-  -  [MySQL Sandbox | mysql-db-sandbox | Katacoda](https://www.katacoda.com/mysql-db-sandbox/scenarios/mysql-sandbox)   
-
-    check chapter 2 of the book and follow up instructions 
-
-
 
 ## Datacamp  
 
@@ -52,6 +36,20 @@
 [SQL in a nutshell, 4th edition](https://learning.oreilly.com/library/view/sql-in-a/9781492088851/)
 
 [SQL beyond the basics](https://learning.oreilly.com/videos/sql-beyond-the/9781771373449/)
+
+
+[Learning SQL, 3rd Edition](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/) 
+
+  *Follow up with the book locally*    
+  -  [MySQL :: Download MySQL Community Server](https://dev.mysql.com/downloads/mysql/)   
+ 
+  -  [Download Sakila database from here](https://dev.mysql.com/doc/index-other.html)   
+
+  *Follow up with the book online*  
+
+  -  [MySQL Sandbox | mysql-db-sandbox | Katacoda](https://www.katacoda.com/mysql-db-sandbox/scenarios/mysql-sandbox)   
+
+    check chapter 2 of the book and follow up instructions 
 
 
 ## Other SQL resources
