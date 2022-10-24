@@ -2,13 +2,13 @@
 
 [SQL Formatter & Beautifier Online](https://codebeautify.org/sqlformatter)
 
+[techTFQ - YouTube](https://www.youtube.com/c/techTFQ)
+
 [ALL Hackerrank SQL Solutions in ONE Video! | Easy Medium Hard Problems - YouTube](https://www.youtube.com/watch?v=vpzO8QTrgbc) with his [github](CuriosityLeonardo (https://github.com/CuriosityLeonardo?tab=repositories)
 
 ## Datacamp  
 
 [Joining Data in SQL - DataCamp Learn](https://app.datacamp.com/learn/courses/joining-data-in-sql) 
-
-[Intermediate SQL - DataCamp Learn](https://app.datacamp.com/learn/courses/intermediate-sql) 
 
 [Improving Query Performance in PostgreSQL - DataCamp Learn](https://app.datacamp.com/learn/courses/improving-query-performance-in-postgresql)
 
@@ -33,6 +33,9 @@ check.
 [Analytic SQL - YouTube - Mcdonald's](https://www.youtube.com/playlist?list=PLJMaoEWvHwFIUwMrF4HLnRksF0H8DHGtt)
 
 [Why the WITH clause is awesome in SQL - YouTube](https://www.youtube.com/watch?v=Gm8N_yip0Ek) 
+
+  [Subquery in SQL | Correlated Subquery + Complete SQL Subqueries Tutorial - YouTube](https://www.youtube.com/watch?v=nJIEIzF7tDw&t=398s)
+
 
 
 ## Books  
