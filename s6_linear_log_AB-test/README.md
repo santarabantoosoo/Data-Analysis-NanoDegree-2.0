@@ -36,6 +36,10 @@
 [Logistic Regression Details Pt 3: R-squared and p-value - YouTube](https://www.youtube.com/watch?v=xxFYro8QuXA&t=303s)
 
 
+## interaction terms 
+
+[GLM Part 6: Interaction effects: How to interpret and identify them - YouTube](https://www.youtube.com/watch?v=3CCkeFShB3U)
+
 # Project and related links   
 
 https://learn.datacamp.com/projects/558 
