@@ -73,33 +73,6 @@
 
 
 
-## Pandas  
-
-[Minimally Sufficient Pandas| by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
-
-[Pandas Tutorials - Corey schafer - YouTube](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) 
-
-[Python for Machine Learning: Pandas Axis Explained | Railsware Blog](https://railsware.com/blog/python-for-machine-learning-pandas-axis-explained/) 
- 
-[Merge, Join, Append, Concat - Pandas - YouTube](https://www.youtube.com/watch?v=g7n1MZyYjOM) 
-
-[Selecting Subsets of Data in Pandas: Part 4 | by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-part-4-c4216f84d388#:~:text=So%2C%20why%20did%20our%20assignment,it's%20own%20place%20in%20memory.)
-
-[Minimally Sufficient Pandas| by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
-
-[Repo for article above](https://github.com/tdpetrou/Minimally-Sufficient-Pandas)
-
-[minimally-sufficient-pandas · PyPI - Package by the author](https://pypi.org/project/minimally-sufficient-pandas/)
-
-[python - When should I (not) want to use pandas apply() in my code? - Stack Overflow](https://stackoverflow.com/questions/54432583/when-should-i-not-want-to-use-pandas-apply-in-my-code#:~:text=It%20is%20because%20apply%20is,major%20overhead%20at%20each%20iteration.) 
- 
-[How and why to stop using pandas .apply() (so much) | by Sven Harris | Towards Data Science](https://towardsdatascience.com/avoiding-apply-ing-yourself-in-pandas-a6ade4569b7f) 
-
-[Introduction to Pandas apply, applymap and map | by B. Chen | Towards Data Science](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff)
-
-[Pandas concat() tricks you should know to speed up your data analysis | by B. Chen | Towards Data Science](https://towardsdatascience.com/pandas-concat-tricks-you-should-know-to-speed-up-your-data-analysis-cd3d4fdfe6dd)
-
-
 ## Probability Distributions  
 
 [StatQuest: What is a statistical distribution? - YouTube](https://www.youtube.com/watch?v=oI3hZJqXJuc) 
