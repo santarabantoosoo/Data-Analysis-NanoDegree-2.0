@@ -4,8 +4,6 @@
 
 [20+ Windows Tableau Desktop shortcuts you should know. - YouTube](https://www.youtube.com/watch?v=xRTzYyfSyDo&list=PLRfaJ7ZL0cF7U9cR7ORuueqxItw3qcno1) 
 
-[All the Best Google Slides Keyboard Shortcuts](https://www.howtogeek.com/440137/all-the-best-google-slides-keyboard-shortcuts/)
-
 [Tableau Desktop Shortcuts Cheat Sheet - Intellipaat Blog](https://intellipaat.com/blog/tutorial/tableau-tutorial/tableau-desktop-shortcuts-cheat-sheet/) 
 
 [Tableau Layout Containers Explained in Under 10 mins : 2020 Updated - YouTube](https://www.youtube.com/watch?v=96371LvULXM) 

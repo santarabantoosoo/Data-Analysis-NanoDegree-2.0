@@ -1,52 +1,41 @@
-# Resources  
-
-## Data wrangling 
-
-### python 
-
-[tdpetrou/Minimally-Sufficient-Pandas: There are always multiple ways to complete a task in Pandas. A minimal subset of the library is sufficient for almost everything.](https://github.com/tdpetrou/Minimally-Sufficient-Pandas) 
-
-[Understand map() function to manipulate pandas Series | by Yong Cui | Towards Data Science](https://towardsdatascience.com/understand-map-function-to-manipulate-pandas-series-8ac340d514f7)
-
-#### ML - scikit learn
-
-[Machine-Learning-with-Python/Logistic Regression](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Logistic%20Regression%20in%20Python%20-%20Step%20by%20Step.ipynb)
-
-[palVikram/Machine-Learning-using-Python: Regression, Classification and Clustering](https://github.com/palVikram/Machine-Learning-using-Python)
-
-#### Statistics - Statsmodels
-
-[Linear regression with Python and StatsModels](https://github.com/RM-Santiago/framingham/blob/main/Linear%20regression%20with%20Python%20and%20StatsModels.ipynb) 
-
-[framingham/Logistic regression in Python using StatsModels.ipynb at main · RM-Santiago/framingham](https://github.com/RM-Santiago/framingham/blob/main/Logistic%20regression%20in%20Python%20using%20StatsModels.ipynb)
-
+[SQL + Tableau | 365 Data Science](https://learn.365datascience.com/courses/sql-tableau/problem-5-organizing-charts-1-4-into-a-beautiful-dashboard/) 
 
 ### SQL 
 
-[PowerPoint Presentation](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf) 
+[Postgres cheat sheet](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf) 
 
 [How to copy from CSV file to PostgreSQL table with headers in CSV file? - Stack Overflow](https://stackoverflow.com/questions/17662631/how-to-copy-from-csv-file-to-postgresql-table-with-headers-in-csv-file) 
 
 [Import CSV File Into PosgreSQL Table](https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/)
 
-## visualization   
+### Tableau   
 
-### seaborn   
+[sqlbelle - YouTube](https://www.youtube.com/c/sqlbelle)
 
-[kimfetti/Videos: Code associated with my videos](https://github.com/kimfetti/Videos) 
+[SQLbelle learning tableau](https://youtube.com/playlist?list=PLkZ_g9Y7eszLQMnIy0hylgO9kJD4643jn)
 
-### tableau   
+[Tableau Tutorial for Beginners - 3 Important Concepts you NEED to know - YouTube](https://www.youtube.com/watch?v=4fst9Zm4-BM&list=PLssCT4JSGVsf5_49Ljua05vrPfXzcsMER&index=4)
+
+[Ultimate guide to getting certified in Tableau | by Sumit Gupta | Towards Data Science](https://towardsdatascience.com/ultimate-guide-to-getting-certified-in-tableau-5bd2df7d0c7d)   
+
+[Exam guides and hands-on questions](https://youtube.com/playlist?list=PLkZ_g9Y7eszJAm-ZbUT7jnldrl-uF-bWe)
+
+[Tableau Tim - YouTube](https://www.youtube.com/c/TableauTim)   AND  [Tableau Tim exam guide](https://youtube.com/playlist?list=PLRfaJ7ZL0cF4boLapTII6-W2Ar905xcYN)
+
+[20+ Windows Tableau Desktop shortcuts you should know. - YouTube](https://www.youtube.com/watch?v=xRTzYyfSyDo)    [Tableau Desktop Shortcuts Cheat Sheet - Intellipaat Blog](https://intellipaat.com/blog/tutorial/tableau-tutorial/tableau-desktop-shortcuts-cheat-sheet/) 
+
+
+[SQLbelle- Blend vs Join vs Relationship](https://youtube.com/playlist?list=PLkZ_g9Y7eszLoyG_93z8ocL7O_XmohqAt) 
+
+[SQLBELLE- level of details](https://youtube.com/playlist?list=PLkZ_g9Y7eszIxB_9OKBne-9X4Xc9U0KVl) 
+
+[SQLBELLE - Tableau dashboards](https://youtube.com/playlist?list=PLkZ_g9Y7eszLTQzwQmdbC6EL572_eY8Wi)
 
 [Visual Vocabulary | Tableau Public](https://public.tableau.com/app/profile/andy.kriebel/viz/VisualVocabulary/VisualVocabulary) 
 
-[Workbook: Tableau Cook Book](https://public.tableau.com/views/CookBook/VizCookbook?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true) 
+[Tableau cookbook playlist](https://youtube.com/playlist?list=PL_t5OlLHbVGxFSiWXUsEQrDPvFd1Nhxiu)
 
 [Workbook: BBC Audiences Tableau Style Guide](https://public.tableau.com/views/BBCAudiencesTableauStyleGuide/Hello?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true)
-
-
-**for combining SQL, PYTHON, and tableau** 
-
-[Python, SQL, and Tableau: Integrating Python, SQL, and Tableau](https://learning.oreilly.com/videos/python-sql-and/9781838987916/) 
 
 
 ### other resources   
