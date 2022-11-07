@@ -1,39 +1,59 @@
-## useful links 
+# useful links  
 
-[python - Generate random array of 0 and 1 with a specific ratio - Stack Overflow](https://stackoverflow.com/questions/21566744/generate-random-array-of-0-and-1-with-a-specific-ratio) 
+## hypothesis testing   
 
-[Datacamp - supervised learning with sickit learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+[Statistical inference in one sentence | by Cassie Kozyrkov | HackerNoon.com | Medium](https://medium.com/hackernoon/statistical-inference-in-one-sentence-33a4683a6424) 
 
-[How do A/B tests work?. A look inside one of the most powerful… | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0) 
-
-[How good is your model? | Python](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/fine-tuning-your-model?ex=1) 
-
-[Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra - YouTube](https://www.youtube.com/watch?v=uQhTuRlWMxw) 
-
-[FAQ: What does it mean for a non-square matrix to be full rank? - FBSwiki](https://www.cds.caltech.edu/~murray/amwiki/index.php/FAQ:_What_does_it_mean_for_a_non-square_matrix_to_be_full_rank%3F)
-
-[Training, validation, and test phases in AI — explained in a way you’ll never forget | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/training-validation-and-test-phases-in-ai-explained-in-a-way-youll-never-forget-744be50154e8) 
-
-[How to be an AI idiot. 7 ways to royally mess up your machine… | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/how-to-be-an-ai-idiot-8559c65d91a8)
-
-[python - Pandas - change the order of levels of factor-type object - Stack Overflow](https://stackoverflow.com/questions/38023881/pandas-change-the-order-of-levels-of-factor-type-object) 
+[The most important idea in statistics | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/the-most-important-idea-in-statistics-8c18d514ad1c) 
 
 
-## Linear regression  
+## Confidence interval   
 
-[Linear regression using StatsModels | by Santiago Rodrigues Manica | EvidentEBM | Medium](https://medium.com/evidentebm/linear-regression-using-statsmodels-d0db5fef16bb) 
+[StatQuest: Confidence Intervals - YouTube](https://www.youtube.com/watch?v=TqOeMYtOc1w)
 
-## Logistic regression   
+## p values   
 
-[StatQuest: Odds and Log(Odds), Clearly Explained!!! - YouTube](https://www.youtube.com/watch?v=ARfXDSkQf1Y) 
+[p-values: What they are and how to interpret them - YouTube](https://www.youtube.com/watch?v=vemZtEM63GY) 
 
-[StatQuest: Odds Ratios and Log(Odds Ratios), Clearly Explained!!! - YouTube](https://www.youtube.com/watch?v=8nm0G-1uJzA)
+[How to calculate p-values - YouTube](https://www.youtube.com/watch?v=JQc3yx0-Q9E)
 
-[Logistic Regression Details Pt1: Coefficients - YouTube](https://www.youtube.com/watch?v=vN5cNN2-HWE)
+[p-hacking, or cheating on a p-value | Freakonometrics](https://freakonometrics.hypotheses.org/19817)
 
-[Logistic Regression Details Pt 2: Maximum Likelihood - YouTube](https://www.youtube.com/watch?v=BfKanl1aSG0)
+[p-hacking: What it is and how to avoid it! - YouTube](https://www.youtube.com/watch?v=HDCOUXE3HMM) 
 
-[Logistic Regression Details Pt 3: R-squared and p-value - YouTube](https://www.youtube.com/watch?v=xxFYro8QuXA&t=303s)
+[Explaining p-values with puppies | Hacker Noon](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0)
+
+[StatQuest: One or Two Tailed P-Values - YouTube](https://www.youtube.com/watch?v=bsZGt-caXO4)
+
+## Bootstrapping   
+
+[Bootstrapping Part 1: Main Ideas - YouTube](https://www.youtube.com/watch?v=Xz0x-8-cgaQ) 
+
+[Bootstrapping Part 2: Calculating p-values!!! - YouTube](https://www.youtube.com/watch?v=N4ZQQqyIf6k) 
+
+[bshypothesis.pdf](http://www.stat.ucla.edu/~rgould/110as02/bshypothesis.pdf)   # a more than perfect illustration for p values using bootstrap
+
+## python packages   
+
+[bootstrapped · PyPI](https://pypi.org/project/bootstrapped/) 
+
+## Others  
+
+[Spurious correlations](http://www.tylervigen.com/spurious-correlations)
+
+[humor - What is your favorite "data analysis" cartoon? - Cross Validated](https://stats.stackexchange.com/questions/423/what-is-your-favorite-data-analysis-cartoon/38295#38295)
+
+[Association_Quantitative](https://istats.shinyapps.io/Association_Quantitative/)
+
+[simple_regression - shiny](https://gallery.shinyapps.io/simple_regression/)
+
+[The Central Limit Theorem and its misuse](https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/)
+ 
+[Confidence interval or p-value?: part 4 of a series on evaluation of scientific publications - PubMed](https://pubmed.ncbi.nlm.nih.gov/19547734/) 
+
+[variance - Pros and cons of bootstrapping - Cross Validated](https://stats.stackexchange.com/questions/280725/pros-and-cons-of-bootstrapping) 
+
+[bootstrap - Why should boostrap sample size equal the original sample size? - Cross Validated](https://stats.stackexchange.com/questions/263710/why-should-boostrap-sample-size-equal-the-original-sample-size) 
 
 
 ## interaction terms 

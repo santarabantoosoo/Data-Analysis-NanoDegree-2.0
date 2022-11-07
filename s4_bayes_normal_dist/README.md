@@ -8,6 +8,8 @@
 
 ## Pandas  
 
+[Learn Pandas Tutorials](https://www.kaggle.com/learn/pandas)
+
 [Pandas Tutorials - Corey schafer - YouTube](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) 
 
 [Python for Machine Learning: Pandas Axis Explained | Railsware Blog](https://railsware.com/blog/python-for-machine-learning-pandas-axis-explained/) 
@@ -16,7 +18,7 @@
 
 [Selecting Subsets of Data in Pandas: Part 4 | by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-part-4-c4216f84d388#:~:text=So%2C%20why%20did%20our%20assignment,it's%20own%20place%20in%20memory.)
 
-[Minimally Sufficient Pandas| by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
+[Minimally Sufficient Pandas - A guide to use pandas effectively](https://www.dunderdata.com/blog/minimally-sufficient-pandas)
 
 [Repo for article above](https://github.com/tdpetrou/Minimally-Sufficient-Pandas)
 
@@ -29,16 +31,4 @@
 [Introduction to Pandas apply, applymap and map | by B. Chen | Towards Data Science](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff)
 
 [Pandas concat() tricks you should know to speed up your data analysis | by B. Chen | Towards Data Science](https://towardsdatascience.com/pandas-concat-tricks-you-should-know-to-speed-up-your-data-analysis-cd3d4fdfe6dd)
-
-
-## Useful links for lefthanded project   
- 
-[Python Functions](https://www.w3schools.com/python/python_functions.asp) 
-
-[pandas cheatsheet]((http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3))
-
-[(Tutorial) Python NUMPY Array TUTORIAL - DataCamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
-
-[(Cheat Sheet) Matplotlib: Plotting in Python - DataCamp](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
-
 

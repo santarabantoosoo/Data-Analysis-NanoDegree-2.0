@@ -1,154 +1,36 @@
-[Tableau Tutorial - 3 Important Concepts you NEED to know - YouTube](https://www.youtube.com/watch?v=4fst9Zm4-BM&list=PLssCT4JSGVsf5_49Ljua05vrPfXzcsMER&index=3)
+## useful links 
 
-[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four - YouTube](https://www.youtube.com/watch?v=jbkSRLYSojo)
+[python - Generate random array of 0 and 1 with a specific ratio - Stack Overflow](https://stackoverflow.com/questions/21566744/generate-random-array-of-0-and-1-with-a-specific-ratio) 
 
-# Top resources  
+[Datacamp - supervised learning with sickit learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
-[Best reference ever - huge list of tableau curated resources](http://www.tableaureferenceguide.com/)  
- 
-[Tableau Learning & Community Quiz](https://www.tableau.com/learn/learning-quiz)  
+[How do A/B tests work?. A look inside one of the most powerful… | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0) 
 
-## Tableau top viz all time  
+[How good is your model? | Python](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/fine-tuning-your-model?ex=1) 
 
-[TOP Vizzes – Vizification.com](https://vizification.com/top-100-tableau-public-vizzes-of-all-time) 
+[Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra - YouTube](https://www.youtube.com/watch?v=uQhTuRlWMxw) 
 
-[Workbook: Visual Vocabulary](https://public.tableau.com/views/VisualVocabulary/VisualVocabulary?%3AshowVizHome=no) 
+[FAQ: What does it mean for a non-square matrix to be full rank? - FBSwiki](https://www.cds.caltech.edu/~murray/amwiki/index.php/FAQ:_What_does_it_mean_for_a_non-square_matrix_to_be_full_rank%3F)
 
-[Workbook: The Tableau Chart Catalog](https://public.tableau.com/views/TheTableauChartCatalog/TableauChartExamples?:showVizHome=no) 
+[Training, validation, and test phases in AI — explained in a way you’ll never forget | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/training-validation-and-test-phases-in-ai-explained-in-a-way-youll-never-forget-744be50154e8) 
 
-[BBC Audiences Tableau Style Guide | Tableau Public](https://public.tableau.com/app/profile/bbc.audiences/viz/BBCAudiencesTableauStyleGuide/MoreInfo2) 
+[How to be an AI idiot. 7 ways to royally mess up your machine… | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/how-to-be-an-ai-idiot-8559c65d91a8)
 
-[Tableau Visualization Library (Viz Library) | Tableau Public](https://public.tableau.com/app/profile/kritdikoon.woraitthinan/viz/Book1_v10_4/AnalysisLibrary) 
+[python - Pandas - change the order of levels of factor-type object - Stack Overflow](https://stackoverflow.com/questions/38023881/pandas-change-the-order-of-levels-of-factor-type-object) 
 
-[Tableau Cook Book | Tableau Public](https://public.tableau.com/app/profile/josh.weyburne/viz/CookBook/VizCookbook)
 
-## selected youtube playlists/videos  
+## Linear regression  
 
-[How to Build Chart Types in Tableau - YouTube](https://www.youtube.com/playlist?list=PL_t5OlLHbVGxFSiWXUsEQrDPvFd1Nhxiu) 
+[Linear regression using StatsModels | by Santiago Rodrigues Manica | EvidentEBM | Medium](https://medium.com/evidentebm/linear-regression-using-statsmodels-d0db5fef16bb) 
 
-[Tableau-How to build different types of charts | Tableau Tutorial | Episode-6 | Data Semantics - YouTube](https://www.youtube.com/watch?v=pTNp95XNKUw)
+## Logistic regression   
 
-## nice intro   
+[StatQuest: Odds and Log(Odds), Clearly Explained!!! - YouTube](https://www.youtube.com/watch?v=ARfXDSkQf1Y) 
 
-Tableau for Data Science and Data Visualization - Crash Course Tutorial - YouTube - fast walkthru
-https://www.youtube.com/watch?v=TPMlZxRRaBQ 
+[StatQuest: Odds Ratios and Log(Odds Ratios), Clearly Explained!!! - YouTube](https://www.youtube.com/watch?v=8nm0G-1uJzA)
 
+[Logistic Regression Details Pt1: Coefficients - YouTube](https://www.youtube.com/watch?v=vN5cNN2-HWE)
 
-## Lies with viz  
+[Logistic Regression Details Pt 2: Maximum Likelihood - YouTube](https://www.youtube.com/watch?v=BfKanl1aSG0)
 
-[How to Spot Visualization Lies | FlowingData]
-(https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/) 
-
-
-## official tableau resources  
-
-[Free Training Videos - 2021.4](https://www.tableau.com/learn/training/20214) 
-
-
-## Datacamp   
-
-[Introduction | Tableau](https://campus.datacamp.com/courses/introduction-to-tableau/getting-started-with-tableau?ex=1)
-
-[Profile - datacamp.introduction.to.tableau | Tableau Public](https://public.tableau.com/app/profile/datacamp.introduction.to.tableau#!/)
-
-
-## maps  
-
-[The 7 Best Thematic Map Types for Geospatial Data | by Abdishakur | Towards Data Science](https://towardsdatascience.com/the-7-best-thematic-map-types-for-geospatial-data-34d21b8b475)
-
-
-## flow diagrams  
-
-[RPubs - Family Planning Dynamics Data: Chord vs. Sankey](https://rpubs.com/YJ_Choi/FPDynamicsData)
-
-
-## Line vs area charts  
-
-[What to consider when creating area charts](https://blog.datawrapper.de/area-charts/) 
-
-## resources to be explored  
-
-15 Tableau Projects for Beginners to Practice with Source Code
-https://www.projectpro.io/article/-tableau-projects-ideas/479
-
-[How to Create an Interactive Resume in Tableau | Tableau Public](https://public.tableau.com/en-us/s/blog/2016/09/how-create-interactive-resume-tableau) 
-
-Tableau | 8 Dashboard Container Tricks | by Donabel Santos | Medium
-https://sqlbelle.medium.com/tableau-8-dashboard-container-tricks-e0a60d238222
-
-Blog | Art of Visualization
-https://www.artofvisualization.com/blog 
-
-Discover | Tableau Public
-https://public.tableau.com/app/discover 
-
-A Rough Guide to Dashboard Actions | Tableau Public
-https://public.tableau.com/en-us/s/blog/2015/06/rough-guide-dashboard-actions 
-
-
-Fundamentals of Visualization with Tableau - Grades | Coursera
-https://www.coursera.org/learn/data-visualization-tableau/home/assignments
-
-What is the REAL Value of Tableau Certifications? - YouTube
-https://www.youtube.com/watch?v=0oET5zmEGJk 
-
-
-Tableau's Product Portfolio | Tableau Tutorial | Episode-1 | Data Semantics - YouTube
-https://www.youtube.com/watch?v=fofUWyEgdx4&list=PLt5ZVA6dNC91-kQydsrbrBucyqsWdQkyD 
-
-
-
-Tableau Fundamentals Track - DataCamp Learn
-https://app.datacamp.com/learn/skill-tracks/tableau-fundamentals 
-
-
-the next two courses are not in the track 
-
-Connecting Data in Tableau - DataCamp Learn
-https://app.datacamp.com/learn/courses/connecting-data-in-tableau 
-
-
-Statistical Techniques in Tableau - DataCamp Learn
-https://app.datacamp.com/learn/courses/statistical-techniques-in-tableau 
-
-
-Get Started - Tableau
-https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm 
-
-Blog Series: Using Tableau and Alteryx for Data Quality Reporting - The Information Lab
-https://www.theinformationlab.co.uk/2021/02/02/blog-series-using-tableau-and-alteryx-for-data-quality-reporting/ 
-
-Knowledge Base
-https://www.tableau.com/support/knowledgebase 
-
-Tableau for Data Science and Data Visualization - Crash Course Tutorial - YouTube
-https://www.youtube.com/watch?v=TPMlZxRRaBQ         
-
-## miscellaneous  
-
-What Is The Difference Between Tableau Online and Tableau Server? - YouTube
-https://www.youtube.com/watch?v=rN6lT6hiU3M 
-
-
-## advanced resources  
-
-[Learning Tableau by reverse engineering - The Information Lab](https://www.theinformationlab.co.uk/2015/01/22/learning-tableau-reverse-engineering/) 
-
-[Xenographics – Weird but (sometimes) useful charts](https://xeno.graphics/) 
-
-5 Types of Dashboards | Tableau Public
-https://public.tableau.com/app/profile/adam.e.mccann/viz/5TypesofDashboards/4BottomUpDashboard 
- 
-
-Lies, Distortions, and Misrepresentations in Visualization - YouTube
-https://www.youtube.com/watch?v=IFA-3uXEcb0 
-
-
-## V imp tips  
-
-[Blog Series: Using Tableau and Alteryx for Data Quality Reporting - The Information Lab](https://www.theinformationlab.co.uk/2021/02/02/blog-series-using-tableau-and-alteryx-for-data-quality-reporting/)
-
-[Understanding Layout Containers in Tableau - InterWorks](https://interworks.com/blog/tspaulding/2013/08/07/understanding-layout-containers-tableau/) 
-
-By default, tableau will use relationship instead of join in tableau 2022.1 version. It seems to be much better than joins
-[How Relationships Differ from Joins - Tableau](https://help.tableau.com/current/online/en-us/datasource_relationships_learnmorepage.htm) 
+[Logistic Regression Details Pt 3: R-squared and p-value - YouTube](https://www.youtube.com/watch?v=xxFYro8QuXA&t=303s)
