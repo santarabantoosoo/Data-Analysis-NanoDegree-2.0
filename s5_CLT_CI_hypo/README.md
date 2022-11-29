@@ -1,3 +1,7 @@
+## Breakout room solution 
+
+[Conditional_probability_pandas | Kaggle](https://www.kaggle.com/code/mahmoudhamza/conditional-probability-pandas) 
+
 
 ## Useful links for lefthanded project   
  

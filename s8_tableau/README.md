@@ -1,6 +1,84 @@
+# Links tok use for today's task   
 
+FIFA 20 complete player dataset | Kaggle
+https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv 
+  
+[seaborn cheat sheet](https://github.com/kimfetti/Videos/tree/master/Seaborn)
+
+
+# Tasks for next meeting: 
 
 [Tableau Tutorial - 3 Important Concepts you NEED to know - YouTube](https://www.youtube.com/watch?v=4fst9Zm4-BM&list=PLssCT4JSGVsf5_49Ljua05vrPfXzcsMER&index=3)
+
+[Join vs relationship in tableau](https://www.youtube.com/watch?v=FtyVMvfzn1I&list=PLkZ_g9Y7eszLoyG_93z8ocL7O_XmohqAt&index=2)
+
+[Tableau - LEVEL UP your problem solving with 10 questions - Set #1 | sqlbelle - YouTube](https://www.youtube.com/watch?v=rKTudr3lKc4) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------- 
+
+
+
+## Python visualization   
+
+### packages to save your time   
+
+[The Top 30 Exploratory Data Analysis Open Source Projects](https://awesomeopensource.com/projects/exploratory-data-analysis) 
+
+**Examples of packages**     
+
+[Pandas Profiling](https://awesomeopensource.com/project/pandas-profiling/pandas-profiling#examples) 
+
+[Lux](https://awesomeopensource.com/project/lux-org/lux)
+
+
+## Seaborn 
+
+### Notebook guides for seaborn   
+
+[Seaborn Tutorial 2021 - YouTube](https://www.youtube.com/watch?v=6GUZXDef2U0) and [derekbanas/seaborn](https://github.com/derekbanas/seaborn)    
+
+[Seaborn detailed tutorial - YouTube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) and [Code](https://github.com/kimfetti/Videos/tree/master/Seaborn)
+
+### Seaborn important concepts  
+
+[A Major Seaborn Plotting Tip I Wish I Had Learned Earlier | by Will Norris | Towards Data Science](https://towardsdatascience.com/a-major-seaborn-plotting-tip-i-wish-i-had-learned-earlier-d8209ad0a20e)  
+
+
+## Gallery with code  
+
+[Python Graph Gallery](https://www.python-graph-gallery.com/)
+
+
+## matplotlib   
+
+[rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book) 
+
+
+[matplotlib/cheatsheets: Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) 
+
+
+
+
+
+
+
 
 [Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four - YouTube](https://www.youtube.com/watch?v=jbkSRLYSojo)
 
@@ -29,6 +107,9 @@
 [How to Build Chart Types in Tableau - YouTube](https://www.youtube.com/playlist?list=PL_t5OlLHbVGxFSiWXUsEQrDPvFd1Nhxiu) 
 
 [Tableau-How to build different types of charts | Tableau Tutorial | Episode-6 | Data Semantics - YouTube](https://www.youtube.com/watch?v=pTNp95XNKUw)
+
+[Tableau Groups vs Sets - Comparison and examples (proportional brushing, top and bottom values) - YouTube](https://www.youtube.com/watch?v=fqBFTdTxT1M)
+
 
 ## nice intro   
 
@@ -134,6 +215,8 @@ https://www.youtube.com/watch?v=rN6lT6hiU3M
 
 ## advanced resources  
 
+[Tableau Tutorial - Parameters - Complete Introduction - with 10 use cases step-by-step for beginners - YouTube](https://www.youtube.com/watch?v=0Uar_D57QhU)  
+
 [Learning Tableau by reverse engineering - The Information Lab](https://www.theinformationlab.co.uk/2015/01/22/learning-tableau-reverse-engineering/) 
 
 [Xenographics – Weird but (sometimes) useful charts](https://xeno.graphics/) 
@@ -144,6 +227,10 @@ https://public.tableau.com/app/profile/adam.e.mccann/viz/5TypesofDashboards/4Bot
 
 Lies, Distortions, and Misrepresentations in Visualization - YouTube
 https://www.youtube.com/watch?v=IFA-3uXEcb0 
+
+
+The Data School - Parameters vs Filters in Tableau
+https://www.thedataschool.co.uk/kristine-wiesner/tableau-parameters 
 
 
 ## V imp tips  
@@ -169,44 +256,5 @@ By default, tableau will use relationship instead of join in tableau 2022.1 vers
 [Tutorial For Tableau LODs Fixed | Perfect for Beginners - YouTube](https://www.youtube.com/watch?v=RIVVbvqvy6A) 
 
 [Tableau LOD (Level of Detail) Expressions Explained - FIXED, INCLUDE, EXCLUDE - Complete Tutorial - YouTube](https://www.youtube.com/watch?v=yush1yNz9VM) 
-
-
-## Python visualization   
-
-### packages to save your time   
-
-[The Top 30 Exploratory Data Analysis Open Source Projects](https://awesomeopensource.com/projects/exploratory-data-analysis) 
-
-**Examples of packages**     
-
-[Pandas Profiling](https://awesomeopensource.com/project/pandas-profiling/pandas-profiling#examples) 
-
-[Lux](https://awesomeopensource.com/project/lux-org/lux)
-
-
-## Seaborn 
-
-### Notebook guides for seaborn   
-
-[Seaborn Tutorial 2021 - YouTube](https://www.youtube.com/watch?v=6GUZXDef2U0) and [derekbanas/seaborn](https://github.com/derekbanas/seaborn)    
-
-[Seaborn detailed tutorial - YouTube](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) and [Code](https://github.com/kimfetti/Videos/tree/master/Seaborn)
-
-### Seaborn important concepts  
-
-[A Major Seaborn Plotting Tip I Wish I Had Learned Earlier | by Will Norris | Towards Data Science](https://towardsdatascience.com/a-major-seaborn-plotting-tip-i-wish-i-had-learned-earlier-d8209ad0a20e)  
-
-
-## Gallery with code  
-
-[Python Graph Gallery](https://www.python-graph-gallery.com/)
-
-
-## matplotlib   
-
-[rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book) 
-
-
-[matplotlib/cheatsheets: Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) 
 
 
