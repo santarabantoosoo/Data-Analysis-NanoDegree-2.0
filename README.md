@@ -8,7 +8,7 @@ In Udacity connect sessions for advanced data analytics nano degree by FWD, we h
 
 This repo is mainly for the first two items; tasks and resources
 
-If you want the presentations, please head to this [repo](https://github.com/santarabantoosoo/Data-Analysis-NanoDegree-presentations-2.0)
+If you want the presentations, [here](https://drive.google.com/drive/folders/1oGXQJGGZ3gn8DDT0Bf6wevlcbH0YhX5Z?usp=share_link) you go  
 
 The destinction between the repos is mainly because the presentation increase the size of the repo. This may limit the ease of cloning the repo. This may have negative effects as we may need to clone the repo each week, just before the session.
 
