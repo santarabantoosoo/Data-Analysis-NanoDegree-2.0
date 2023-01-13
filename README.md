@@ -14,7 +14,7 @@ The destinction between the repos is mainly because the presentation increase th
 
 ## what did ADVANCED_DATA_ANALYSIS 1.0 have?   
 
-Same practical statistics content, in addition to pandas and visualization in python(seaborn and matplotlib). These items were replaced by SQL, Tableau and Agile in 2.0 
+Same practical statistics content, in addition to pandas and visualization in python(seaborn and matplotlib). These items were replaced by SQL and Tableau in 2.0 
 
 ### Where can we find the resources for the old course?    
 
