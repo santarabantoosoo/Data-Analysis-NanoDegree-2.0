@@ -258,3 +258,8 @@ By default, tableau will use relationship instead of join in tableau 2022.1 vers
 [Tableau LOD (Level of Detail) Expressions Explained - FIXED, INCLUDE, EXCLUDE - Complete Tutorial - YouTube](https://www.youtube.com/watch?v=yush1yNz9VM) 
 
 
+
+
+Done by hand 
+
+[Tableau - LEVEL UP your problem solving with 10 questions - Set #1 | sqlbelle - YouTube](https://www.youtube.com/watch?v=rKTudr3lKc4) 

@@ -1,0 +1,105 @@
+FIPS,Name,Type,TimeFrame,Median Age,Population Density per Sq Mi
+1,Alabama,State,2006-2010,25.5,94.4
+2,Alaska,State,2006-2010,24.8,1.2
+4,Arizona,State,2006-2010,25.6,56.3
+5,Arkansas,State,2006-2010,24.5,56
+6,California,State,2006-2010,26.9,239.1
+8,Colorado,State,2006-2010,25.7,48.5
+9,Connecticut,State,2006-2010,27.6,738.1
+10,Delaware,State,2006-2010,26.4,460.8
+11,District of Columbia,State,2006-2010,29.6,9856.5
+12,Florida,State,2006-2010,26.6,350.6
+13,Georgia,State,2006-2010,25.9,168.4
+15,Hawaii,State,2006-2010,27,211.8
+16,Idaho,State,2006-2010,23.3,19
+17,Illinois,State,2006-2010,27.1,231.1
+18,Indiana,State,2006-2010,25.9,181
+19,Iowa,State,2006-2010,25.5,54.5
+20,Kansas,State,2006-2010,25.1,34.9
+21,Kentucky,State,2006-2010,25,109.9
+22,Louisiana,State,2006-2010,26.2,104.9
+23,Maine,State,2006-2010,26.5,43.1
+24,Maryland,State,2006-2010,27.4,594.8
+25,Massachusetts,State,2006-2010,28.5,839.4
+26,Michigan,State,2006-2010,26.6,174.8
+27,Minnesota,State,2006-2010,26.3,66.6
+28,Mississippi,State,2006-2010,25.9,63.2
+29,Missouri,State,2006-2010,25.8,87.1
+30,Montana,State,2006-2010,25.4,6.8
+31,Nebraska,State,2006-2010,25.5,23.8
+32,Nevada,State,2006-2010,25.7,24.6
+33,New Hampshire,State,2006-2010,26.8,147
+34,New Jersey,State,2006-2010,27.8,1195.5
+35,New Mexico,State,2006-2010,25.9,17
+36,New York,State,2006-2010,28.3,411.2
+37,North Carolina,State,2006-2010,25.9,196.1
+38,North Dakota,State,2006-2010,25.7,9.7
+39,Ohio,State,2006-2010,26.3,282.3
+40,Oklahoma,State,2006-2010,24.5,54.7
+41,Oregon,State,2006-2010,26.1,39.9
+42,Pennsylvania,State,2006-2010,27.2,283.9
+44,Rhode Island,State,2006-2010,27.9,1018.1
+45,South Carolina,State,2006-2010,26.4,153.9
+46,South Dakota,State,2006-2010,25.5,10.7
+47,Tennessee,State,2006-2010,25.4,153.9
+48,Texas,State,2006-2010,25.3,96.3
+49,Utah,State,2006-2010,23,33.6
+50,Vermont,State,2006-2010,27,67.9
+51,Virginia,State,2006-2010,26.5,202.6
+53,Washington,State,2006-2010,25.8,101.2
+54,West Virginia,State,2006-2010,25.4,77.1
+55,Wisconsin,State,2006-2010,26.4,105
+56,Wyoming,State,2006-2010,24.2,5.8
+US,United States,Country,2006-2010,26.3,87.4
+1,Alabama,State,2015-2019,26.7,99.2
+2,Alaska,State,2015-2019,26.4,1.3
+4,Arizona,State,2015-2019,27.8,63
+5,Arkansas,State,2015-2019,25.7,57.9
+6,California,State,2015-2019,29,254
+8,Colorado,State,2015-2019,27.7,54.3
+9,Connecticut,State,2015-2019,29.5,745
+10,Delaware,State,2015-2019,29,508
+11,District of Columbia,State,2015-2019,30.6,11295
+12,Florida,State,2015-2019,28.9,402
+13,Georgia,State,2015-2019,27.7,186
+15,Hawaii,State,2015-2019,28.4,227
+16,Idaho,State,2015-2019,25.4,22.3
+17,Illinois,State,2015-2019,28.9,231
+18,Indiana,State,2015-2019,27,189
+19,Iowa,State,2015-2019,26.6,57.1
+20,Kansas,State,2015-2019,26.1,35.9
+21,Kentucky,State,2015-2019,26.4,114
+22,Louisiana,State,2015-2019,27.9,108
+23,Maine,State,2015-2019,27.8,44.2
+24,Maryland,State,2015-2019,29.1,636
+25,Massachusetts,State,2015-2019,29.9,901
+26,Michigan,State,2015-2019,28.1,178
+27,Minnesota,State,2015-2019,27.8,71.7
+28,Mississippi,State,2015-2019,26.9,63.1
+29,Missouri,State,2015-2019,26.9,89.5
+30,Montana,State,2015-2019,26.4,7.5
+31,Nebraska,State,2015-2019,26.4,25.5
+32,Nevada,State,2015-2019,27.8,28.3
+33,New Hampshire,State,2015-2019,28.7,154
+34,New Jersey,State,2015-2019,29.3,1263
+35,New Mexico,State,2015-2019,27.7,17.5
+36,New York,State,2015-2019,29.7,429
+37,North Carolina,State,2015-2019,27.6,215
+38,North Dakota,State,2015-2019,26,11.3
+39,Ohio,State,2015-2019,27.9,289
+40,Oklahoma,State,2015-2019,25.9,57.7
+41,Oregon,State,2015-2019,27.9,44.1
+42,Pennsylvania,State,2015-2019,28.7,291
+44,Rhode Island,State,2015-2019,29.7,1061
+45,South Carolina,State,2015-2019,28,170
+46,South Dakota,State,2015-2019,26.4,11.7
+47,Tennessee,State,2015-2019,26.9,168
+48,Texas,State,2015-2019,27,112
+49,Utah,State,2015-2019,24.6,39.8
+50,Vermont,State,2015-2019,28.4,69.8
+51,Virginia,State,2015-2019,27.8,219
+53,Washington,State,2015-2019,27.3,116
+54,West Virginia,State,2015-2019,26.7,74.6
+55,Wisconsin,State,2015-2019,27.8,109
+56,Wyoming,State,2015-2019,25.7,5.9
+US,United States,Country,2015-2019,28,94.8

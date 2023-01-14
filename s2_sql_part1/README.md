@@ -12,7 +12,34 @@
 
 [Improving Query Performance in PostgreSQL - DataCamp Learn](https://app.datacamp.com/learn/courses/improving-query-performance-in-postgresql)
 
-check. 
+[SQL Server, PostgreSQL, MySQL... what's the difference? Where do I start? | DataCamp](https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start)
+
+
+### Download and setup  
+> #### postgres     
+
+[PostgreSQL: Downloads](https://www.postgresql.org/download/)
+
+[pgadmin4](https://www.pgadmin.org/download/pgadmin-4-windows/) 
+
+
+> ####  SQLight    
+
+[SQLite Download Page](https://www.sqlite.org/download.html) 
+
+[Downloads - DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+
+
+### Cheat sheets  
+
+[Letter SQL Basics Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-letter.pdf)
+
+[SQL commands Cheat Sheet by sjm - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/sjm/cheat-sheets/sql-commands/)
+
+[SQL Cheat Sheet (2022) - InterviewBit](https://www.interviewbit.com/sql-cheat-sheet/)
+
+[Advanced POSTGRESQL cheat sheet](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf) 
+
 
 
 ## Miscellaneous articles  
@@ -34,9 +61,7 @@ check.
 
 [Why the WITH clause is awesome in SQL - YouTube](https://www.youtube.com/watch?v=Gm8N_yip0Ek) 
 
-  [Subquery in SQL | Correlated Subquery + Complete SQL Subqueries Tutorial - YouTube](https://www.youtube.com/watch?v=nJIEIzF7tDw&t=398s)
-
-
+[Subquery in SQL | Correlated Subquery + Complete SQL Subqueries Tutorial - YouTube](https://www.youtube.com/watch?v=nJIEIzF7tDw&t=398s)
 
 ## Books  
 
