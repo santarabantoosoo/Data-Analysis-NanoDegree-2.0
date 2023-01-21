@@ -1,3 +1,4 @@
+
 -- techTFQ youtube channel 
 
 -- Subquery in SQL | Correlated Subquery + Complete SQL Subqueries Tutorial - YouTube
@@ -8,6 +9,8 @@
 -- SELECT *
 -- FROM EMPLOYEE;
 --  select * from department;
+
+
  -- CHOOSE
  -- SELECT
 -- WHERE
@@ -16,16 +19,20 @@
 -- correlated
 -- nested
 -- join
---  /* QUESTION: Find the employees who's salary is more than the average salary earned by all employees. */ -- 1- avg salary
 
--- /* QUESTION: Find the employees who earn the highest salary in each department. */ -- highest salary per department
+--  /* QUESTION: Find the employees who's salary is more than the average salary earned by all employees. */ 
 
---  /* QUESTION: Find department who do not have any employees */ --  select * from department;
+-- /* QUESTION: Find the employees who earn the highest salary in each department. */ 
+
+--  /* QUESTION: Find department who do not have any employees */
+
+--  /* QUESTION: Find the employees in each department who earn more than the average salary in that department. */ 
+
+	/* QUESTION: Find department who do not have any employees */ -- Using correlated subquery
+
+--  /* QUESTION: Find stores with sales that are better than the average sales accross all stores */ -- Hint what is the unit of analysis?
 
 --  /* QUESTION: Find the employees who belong to the departments that are having average salaries more than the overall average
-
---  /* QUESTION: Find the employees in each department who earn more than the average salary in that department. */ /* QUESTION: Find department who do not have any employees */ -- Using correlated subquery
---  /* QUESTION: Find stores who's sales where better than the average sales accross all stores */ -- Hint what is the unit of analysis?
 
 
 
@@ -147,7 +154,25 @@ select *
 from salary
 where salary > avg_sal
 
+-- another solution using with clause
 
+ WITH AVG_SALARY AS
+	(SELECT AVG(SALARY) AS AVG_SAL
+		FROM EMPLOYEE)
+SELECT *
+FROM EMPLOYEE
+WHERE SALARY >
+		(SELECT *
+			FROM AVG_SALARY)
+
+-- another solution using subquery within select 
+
+with avg_salary as (
+SELECT *, (select avg(salary) from employee) avg
+FROM EMPLOYEE
+	)
+select * from avg_salary 
+where salary > avg
 
 -- TYPES OF SUBQUERY
 --------------------------------------------------------------------------------
@@ -178,7 +203,7 @@ where (dept_name,salary) in (select dept_name, max(salary) from employee group b
 order by dept_name, salary;
 
 
--- another solution using with clause and join 
+-- another solution using WITH clause and join 
 
 with max_salary as (
 select dept_name, max(salary) max_sal
@@ -222,6 +247,8 @@ WHERE EMP_NAME IS NULL
  4- select employees from these departments 
 */
 
+-- if overall average means just the overall average across all employees
+
 WITH LUX_DEPT AS
 	(SELECT DEPT_NAME,
 			AVG(SALARY)
@@ -235,6 +262,40 @@ SELECT * FROM employee
 WHERE dept_name IN
 (SELECT DEPT_NAME
 FROM LUX_DEPT )
+
+
+-- if overall average means average of dept average 
+
+ WITH AVG_DEP AS
+	(SELECT DEPT_NAME,
+			AVG(SALARY) AVG_SAL
+		FROM EMPLOYEE
+		GROUP BY DEPT_NAME)
+SELECT *
+FROM EMPLOYEE
+WHERE DEPT_NAME in
+		(SELECT DEPT_NAME
+			FROM AVG_DEP
+			WHERE AVG_SAL >
+					(SELECT AVG(AVG_SAL)
+						FROM AVG_DEP))
+
+
+-- a solution with window functions 
+
+WITH AVG_DEP AS
+	(SELECT *,
+			AVG(SALARY) OVER(PARTITION BY DEPT_NAME) AVG_DEPART
+		FROM EMPLOYEE),
+	TBL AS
+	(SELECT *,
+			AVG(AVG_DEPART) OVER()
+		FROM AVG_DEP)
+SELECT *
+FROM TBL
+WHERE AVG_DEPART > AVG
+
+
 
 --------------------------------------------------------------------------------
 /* < CORRELATED SUBQUERY >
@@ -262,14 +323,34 @@ join avg_dept
 using(dept_name)
 where salary > dept_avg 
 
+-- another solution using window function 
+
+ WITH TBL AS
+	(SELECT *,
+			AVG(SALARY) OVER(PARTITION BY DEPT_NAME)
+		FROM EMPLOYEE)
+SELECT *
+FROM TBL
+WHERE SALARY > AVG
+
+-- a try that should fail (check the error message)
+
+SELECT *,
+	(SELECT AVG(SALARY)
+		FROM EMPLOYEE
+		GROUP BY DEPT_NAME)
+FROM EMPLOYEE
 
 
 /* QUESTION: Find department who do not have any employees */
 -- Using correlated subquery
-select *
-from department d
-where not exists (select 1 from employee e where e.dept_name = d.dept_name)
-
+SELECT *
+FROM department d
+where not exists (
+select 1 
+from employee e
+	where e.dept_name = d.dept_name
+)
 
 -- this solution also works 
 
@@ -278,10 +359,17 @@ FROM DEPARTMENT D
 WHERE dept_name NOT IN (select dept_name from employee)
 
 
+-- another solutuion 
+
+SELECT *
+FROM DEPARTMENT
+LEFT JOIN EMPLOYEE USING (DEPT_NAME)
+where emp_id IS NULL  
+
 --------------------------------------------------------------------------------
 /* < SUBQUERY inside SUBQUERY (NESTED Query/Subquery)> */
 
-/* QUESTION: Find stores who's sales where better than the average sales accross all stores */
+/* QUESTION: Find stores whose sales were better than the average sales accross all stores */
 1) find the sales for each store
 2) average sales for all stores
 3) compare 2 with 1
@@ -307,19 +395,22 @@ from sales
 join (select avg(total_sales) as avg_sales from sales) avg_sales
 	on sales.total_sales > avg_sales.avg_sales;
 
+-- using WITH clause and subquery 
 
--- or even simpler 
-
-WITH total_sales AS(
-select store_name, SUM(price) total
+with store_pr as(
+select store_id, sum(price) sum_price
 from sales 
-group by 1
+group by store_id
+	)
+	
+select * from store_pr
+where sum_price > (
+	select avg(sum_price)
+	from store_pr
 )
 
-select * 
-from total_sales
-where total > (select avg(total)
-from total_sales)
+-- Note: I think u shouldn't use OVER here. Simply u want to aggregate the data (reduce the number of rows) instead of calculating something for all
+--  rows present. 
 
 
 
